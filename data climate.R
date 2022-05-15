@@ -43,3 +43,4 @@ spi <- spi(full_climate_data$prcp,3)
 spi6_dl <- spi(daklak$prcp,6)
 spi6_ht <- spi(hatinh$prcp,6)
 spi6_hue <- spi(hue$prcp,6)
+#heello
