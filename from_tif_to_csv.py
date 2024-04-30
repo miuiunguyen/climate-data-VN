@@ -107,7 +107,7 @@ def read_coordinates(file_name: str, latitude_label: str, longitude_label: str):
 
 if __name__ == '__main__':
     # Directory that has the files
-    working_dir = '/Users/nguyenmui/Library/CloudStorage/OneDrive-VictoriaUniversityofWellington-STAFF/2nd_paper/Data/SPI/Downloads/
+    working_dir = '
 
     xy_coordinates = read_coordinates(working_dir + 'gps-district.xlsx', 'hh_lat', 'hh_long')
     #xy_coordinates = [(21.21, -31.11)]
